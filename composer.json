@@ -1,0 +1,11 @@
+{
+    "name": "rvvup/php-template",
+    "description": "Template",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Rvvup\\PhpTemplate\\": "src/"
+        }
+    },
+    "require": {}
+}
